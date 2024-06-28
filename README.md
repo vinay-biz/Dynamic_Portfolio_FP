@@ -1,3 +1,4 @@
+Note : Due to large number of files in frontend. I had to zip the contents of the Front End. Please Extract the files before use
 # Dynamic_Portfolio_Analyst
 The stock market's role in the economy is crucial, often signaling prosperity or recession. Accurately predicting short-term movements in the market is a challenging yet rewarding endeavor for investors. This project showcases a research study aimed at advancing stock portfolio using deep learning networks and sentiment analysis derived from financial, business, and technology news articles.
 
